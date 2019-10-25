@@ -1,4 +1,4 @@
-# get_python_zip_of_aws_lambda_layers
+# Lambda Layers 
 Create a Python package zip file for use in AWS lambda layers.
 
 ## Enviroment
@@ -10,6 +10,7 @@ Create a Python package zip file for use in AWS lambda layers.
 ## Usage
 git clone this repository and Type the following command.
 ```bash
+mkdir dist
 docker-compose up --build
 ```
 
