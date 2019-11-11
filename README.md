@@ -29,7 +29,7 @@ Compressed output for use with lambda layers. just upload it.
 Files installed before compression.
 
 #### entrypoint.sh
-The default package is only pillow, but you can change or add it if you want.
+The default package is only pillow, qrcode  but you can change or add it if you want.
 
 
 Enjoy. AWS lambda layers!
